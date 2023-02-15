@@ -638,8 +638,6 @@
 		pinctrl-0 = <&tpad_default>;
 
 		wakeup-source;
-
-		status = "enabled";
 	};
 
 	touchpad@2c {
