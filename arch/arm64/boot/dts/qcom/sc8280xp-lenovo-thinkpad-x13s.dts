@@ -639,7 +639,7 @@
 
 		wakeup-source;
 
-		status = "disabled";
+		status = "enabled";
 	};
 
 	touchpad@2c {
